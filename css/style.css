@@ -565,7 +565,6 @@ transform: translateY(0);
 .footer-link:focus {
     background-color: #31d0aa;
     }
-
     
 .backdrop {
     position: fixed;
@@ -576,7 +575,6 @@ transform: translateY(0);
     opacity: 0;
     visibility: hidden;
     pointer-events: none;
-    
 }
 
 .is-open {
@@ -585,7 +583,6 @@ transform: translateY(0);
     pointer-events: auto;
   }
   
-
 .modal {
     width: 408;
     min-height: 584;
