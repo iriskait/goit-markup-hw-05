@@ -564,6 +564,7 @@ transform: translateY(0);
 .footer-link:hover,
 .footer-link:focus {
     background-color: #31d0aa;
+    transition: background-color 250ms (0.4, 0, 0.2, 1);
     }
 
 .footer-form {
@@ -648,7 +649,8 @@ border-radius: 50%;
 
 .modal-close:hover {
     fill:  #fff;;
-  background-color: #404bbf;;
+  background-color: #404bbf;
+  transition: background-color 250ms (0.4, 0, 0.2, 1);
   }
   
 .modal-title {
@@ -677,10 +679,12 @@ margin-top: 24px;
 
   .modal-input:focus {
     border-color:  #4d5ae5;
+    transition: background-color 250ms (0.4, 0, 0.2, 1);
   }
   
   .modal-input:focus + .modal-icon {
     fill: #4d5ae5;
+    transition: background-color 250ms (0.4, 0, 0.2, 1);
   }
 
   .modal-label {
@@ -771,6 +775,5 @@ background: #4d5ae5;
 display: block;
 margin: 0 auto;
 color: #fff;
-
 }
 
