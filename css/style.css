@@ -578,11 +578,19 @@ transform: translateY(0);
 letter-spacing: 0.04em;
 color: #fff;
 padding-left: 16px;
-
-
-    
+margin-left: 80px;
 }
-    
+
+.footer-form-btn {
+    border-radius: 4px;
+padding: 8px 24px;
+width: 165px;
+height: 40px;
+background: #4d5ae5;
+border: none;
+margin-left: 24px;
+}
+
 .backdrop {
     position: fixed;
     top: 0;
