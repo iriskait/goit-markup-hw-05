@@ -565,6 +565,23 @@ transform: translateY(0);
 .footer-link:focus {
     background-color: #31d0aa;
     }
+
+.footer-input {
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    border: 1px solid #fff;
+    border-radius: 4px;
+    width: 264px;
+    height: 40px;
+    background: #2e2f42;
+    font-size: 12px; 
+    font-weight: 400;
+letter-spacing: 0.04em;
+color: #fff;
+padding-left: 16px;
+
+
+    
+}
     
 .backdrop {
     position: fixed;
