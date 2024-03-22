@@ -693,7 +693,7 @@ color: #2e2f42;
     width: 16px;
     height: 16px;
     border-radius: 2px;
-    border: 1px solid #404bbf;
+    border: 1px solid rgba(46, 47, 66, 0.4);
     margin-right: 12px;
     display: flex;
     align-items: center;
@@ -701,10 +701,11 @@ color: #2e2f42;
     fill: transparent;
     margin-right: 8px;
   }
-.modal-checkbox:checked + .check-text span {
+
+.modal-check:checked + .check-text span {
    background-color: #404bbf;
    border: none;
-   fill: #404bbf;
+   fill: #f4f4fd;;
   }
   
 .modal-btn {
