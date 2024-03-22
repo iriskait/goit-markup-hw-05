@@ -543,7 +543,7 @@ transform: translateY(0);
 
 .footer-social-links:hover,
 .footer-social-links:focus {
-    background-color: #31d0aa;
+    background-color: #31d0aa;  
 }
 
 .footer-social-links-icons {
@@ -564,7 +564,6 @@ transform: translateY(0);
 .footer-link:hover,
 .footer-link:focus {
     background-color: #31d0aa;
-    transition: background-color 250ms (0.4, 0, 0.2, 1);
     }
 
 .footer-form {
